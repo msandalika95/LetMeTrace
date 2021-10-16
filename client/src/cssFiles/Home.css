@@ -1,0 +1,95 @@
+.search-field{
+    height: 30px;
+    width: 250px;
+    border-radius: 7px;
+    margin-top: 15%;
+    margin-left: 40%;
+    background-color: rgb(162, 196, 218);
+    border-color: rgb(100, 190, 218);
+    text-align: center;
+    
+  }
+
+  .search-button{
+    margin-left: 46%;
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(122, 201, 201, 0.945);
+    color: rgb(239, 243, 231);
+    border-color: rgb(124, 238, 172);
+   }
+
+   .img-place{
+    width: 100px;
+    height: 100px;
+  }
+
+  .icons{
+    background-color: rgb(248, 254, 255);
+    margin-top: 10%;
+    
+  }
+
+  .icons .img-place{
+    margin-left: 250px;
+  }
+
+  .img-message{
+    width: 100px;
+    height: 100px;
+  }
+
+  .icons .img-message{
+    margin-left: 300px;
+  }
+
+  .img-exit{
+    width: 100px;
+    height: 100px;
+  }
+
+  .icons .img-exit{
+    margin-left: 250px;
+  }
+
+  .btn-nav{
+    height: 50px;
+    background-color: rgb(66, 136, 112);
+    margin-top: 8px;
+    opacity: 0.8;
+  }
+
+  .btn-nav .buttonLoc{
+    width: 80px;
+    height: 35px;
+    margin-top: 7px;
+    margin-left: 260px;
+    border-radius: 5px;
+    background-color: rgba(120, 240, 214, 0.945);
+    border-color: rgb(8, 153, 68);
+    color: black;
+  }
+
+  .btn-nav .buttonMsg{
+    width: 80px;
+    height: 35px;
+    margin-top: 7px;
+    margin-left: 320px;
+    border-radius: 5px;
+    background-color: rgba(120, 240, 214, 0.945);
+    border-color: rgb(8, 153, 68);
+    color: black;
+  }
+
+  .btn-nav .buttonExit{
+    width: 80px;
+    height: 35px;
+    margin-top: 7px;
+    margin-left: 275px;
+    border-radius: 5px;
+    background-color: rgba(120, 240, 214, 0.945);
+    border-color: rgb(8, 153, 68);
+    color: black;
+  }
